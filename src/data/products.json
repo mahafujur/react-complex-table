@@ -1,0 +1,234 @@
+{
+  "columns": [
+    { "id": "indicator", "title": "indicator", "type": "number", "decimalDigits": 3 },
+    { "id": "staticReturn", "title": "Static Return", "type": "percent", "decimalDigits": 3 },
+    { "id": "expirationDate", "title": "Expiration Date", "type": "date", "format": "MM.DD.YYYY" },
+    { "id": "issuer", "title": "Issuer", "type": "text" },
+    { "id": "structure", "title": "Structure", "type": "text" },
+    { "id": "finalSecurityOutcome", "title": "Final Security Outcome", "type": "text" }
+  ],
+  "rows": [
+    {
+      "indicator": {
+        "value": 17712862
+      },
+      "staticReturn": {
+        "value": -0.38921095
+      },
+      "expirationDate": {
+        "value": 1677497600
+      },
+      "issuer": {
+        "value": "Bank"
+      },
+      "structure": {
+        "value": "TEST"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19812862
+      },
+      "staticReturn": {
+        "value": -0.88921095
+      },
+      "expirationDate": {
+        "value": 1687497600
+      },
+      "issuer": {
+        "value": "Bank"
+      },
+      "structure": {
+        "value": "TEST"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19912862
+      },
+      "staticReturn": {
+        "value": -0.39921095
+      },
+      "expirationDate": {
+        "value": 1697497600
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "TEST"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19012862
+      },
+      "staticReturn": {
+        "value": -0.30921095
+      },
+      "expirationDate": {
+        "value": 1607497600
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712862
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "BROS"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712862
+      },
+      "staticReturn": {
+        "value": -0.38921095
+      },
+      "expirationDate": {
+        "value": 1657497600
+      },
+      "issuer": {
+        "value": "Inno"
+      },
+      "structure": {
+        "value": "BROS"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712862
+      },
+      "staticReturn": {
+        "value": -0.38921095
+      },
+      "expirationDate": {
+        "value": 1657497600
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "BROS"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712868
+      },
+      "staticReturn": {
+        "value": 0.38921095
+      },
+      "expirationDate": {
+        "value": 1657497700
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "BROS"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712866
+      },
+      "staticReturn": {
+        "value": -0.88921
+      },
+      "expirationDate": {
+        "value": 1657597600
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "BROS"
+      },
+      "finalSecurityOutcome": {
+        "value": "Non"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712865
+      },
+      "staticReturn": {
+        "value": -0.38221095
+      },
+      "expirationDate": {
+        "value": 1667497600
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "TEST"
+      },
+      "finalSecurityOutcome": {
+        "value": "Matured"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712860
+      },
+      "staticReturn": {
+        "value": -0.22921095
+      },
+      "expirationDate": {
+        "value": 1658497600
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "BROS"
+      },
+      "finalSecurityOutcome": {
+        "value": "-"
+      }
+    },
+    {
+      "indicator": {
+        "value": 19712863
+      },
+      "staticReturn": {
+        "value": 0.45821095
+      },
+      "expirationDate": {
+        "value": 1657437600
+      },
+      "issuer": {
+        "value": "Innovative"
+      },
+      "structure": {
+        "value": "BROS"
+      }
+    }
+  ]
+}
